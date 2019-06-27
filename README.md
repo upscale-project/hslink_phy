@@ -30,4 +30,4 @@ This repository contains an ADC-based high-speed link design, along with the beh
 ```shell
 > simvision
 ```
-![Sample results as viewed in SimVision](waveforms.png?raw=true "Sample results as viewed in SimVision")
+![Sample results as viewed in SimVision](doc/waveforms.png?raw=true "Sample results as viewed in SimVision")
