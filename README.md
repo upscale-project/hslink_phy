@@ -31,4 +31,4 @@ This repository contains an ADC-based high-speed link design, along with the beh
 > simvision
 ```
 
-## Project structure
+![Sample results as viewed in SimVision](waveforms.png?raw=true "Sample results as viewed in SimVision")
