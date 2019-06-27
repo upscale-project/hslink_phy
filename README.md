@@ -30,4 +30,4 @@ This repository contains an ADC-based high-speed link design, along with the beh
 ```shell
 > simvision
 ```
-<div style="text-align:center"><img src="waveforms.png?raw=true" /></div>
+![Sample results as viewed in SimVision](waveforms.png?raw=true "Sample results as viewed in SimVision")
